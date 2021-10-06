@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexizlozil
 - 👀 I’m interested in reading, video games, movies, and working out
 - 🌱 I’m currently learning calculus and programming
-- 💞️ I’m looking to collaborate on data science, learning python and R
+- 💞️ I’m looking to learn about data science, learning python and R
 - 📫 How to reach me --> alexandranavarez1@gmail.com
 
 <!---
