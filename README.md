@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading, video games, movies, and working out
 - 🌱 I’m currently learning calculus and programming
 - 💞️ I’m looking to learn about data science, learning python and R
-- 📫 How to reach me --> alexandranavarez1@gmail.com
+- 📫 How to reach me --> alexandranavarez1@gmail.com or alexandra_navarez@dlsu.edu.ph
 
 <!---
 Alexizlozil/Alexizlozil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
